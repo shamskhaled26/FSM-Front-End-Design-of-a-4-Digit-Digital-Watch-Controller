@@ -78,10 +78,6 @@ The design was verified using dedicated module-level and top-level self-checking
 │   ├── time_display_tb.v
 │   └── top_tb.v
 │
-├── Waveforms/
-│
-├── Report/
-│
 └── README.md
 ```
 
