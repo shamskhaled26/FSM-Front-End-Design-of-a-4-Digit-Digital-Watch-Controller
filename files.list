@@ -1,0 +1,7 @@
+top_module.v
+time_display.v
+fsm.v
+Stop_Watch.v
+alarm_mode.v
+push_button_edge.v
+Digit_MUX.v
